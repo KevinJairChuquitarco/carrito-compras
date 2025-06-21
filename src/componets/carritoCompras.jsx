@@ -6,6 +6,7 @@ import { productosIniciales } from '../data/productos';
 
 // Componente principal
 const CarritoCompras = () => {
+  
   const [productos] = useState(productosIniciales);
   const [carrito, setCarrito] = useState([]);
   const [carritoVisible, setCarritoVisible] = useState(false);

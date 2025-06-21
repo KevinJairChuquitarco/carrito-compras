@@ -22,7 +22,7 @@ export const Carrito = ({ carrito, actualizarCantidad, eliminarDelCarrito, vacia
           {carrito.length === 0 ? (
             <div className="text-center py-8">
               <Package size={64} className="mx-auto text-gray-300 mb-4" />
-              <p className="text-gray-500">Tu carrito está vacío</p>
+              <p className="text-gray-500">El carrito está vacío</p>
             </div>
           ) : (
             <>

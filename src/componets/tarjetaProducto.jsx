@@ -1,6 +1,7 @@
 import { Plus } from "lucide-react";
 
 export const TarjetaProducto = ({ producto, agregarAlCarrito }) => {
+  
   return (
     <div className="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow duration-300">
       <img 

@@ -46,5 +46,5 @@ export const productosIniciales = [
     imagen: 'https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=300&h=200&fit=crop',
     categoria: 'Accesorios',
     descripcion: 'Mouse óptico de alta precisión'
-  }
+  },
 ];
